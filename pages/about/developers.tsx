@@ -12,10 +12,59 @@ function DevelopersPage() {
 	}> = [
 			{
 				name: "Leonid Metlitsky",
-				role: "Developer",
+				role: "Editor",
 				year: "2025",
 				github: "leomet07",
 				image: "https://cdn.discordapp.com/avatars/426703074157920266/d3490e284e9254345f7e23158b5d6686.webp?size=256",
+			},			
+			{
+				name: "Ankita Saha",
+				role: "Editor",
+				year: "2025",
+				github: "",
+				image: "",
+			},
+			{
+				name: "Ivan Chen",
+				role: "Designer & Developer",
+				year: "2024",
+				github: "anivanchen",
+				image: "https://cdn.discordapp.com/avatars/695729168343629844/f4df801dc96eb786fa050272ba5fdfac.webp?size=256",
+			},
+			{
+				name: "Dylan Ma",
+				role: "Developer",
+				year: "2024",
+				github: "",
+				image: "",
+			},
+			{
+				name: "Madeline Lei",
+				role: "Developer",
+				year: "2024",
+				github: "MadelineLei1",
+				image: "",
+			},
+			{
+				name: "Caden Khuu",
+				role: "Developer",
+				year: "2025",
+				github: "",
+				image: "",
+			},
+			{
+				name: "Amaryllis Sun",
+				role: "Developer",
+				year: "2025",
+				github: "amaryllis",
+				image: "",
+			},
+			{
+				name: "Anna Lau",
+				role: "Developer",
+				year: "2025",
+				github: "anna1au",
+				image: "",
 			},
 			{
 				name: "David Chen",
@@ -25,12 +74,12 @@ function DevelopersPage() {
 				image: "https://cdn.discordapp.com/attachments/854398680835948544/925432531959054346/unknown.png",
 			},
 			{
-				name: "Ivan Chen",
-				role: "Designer & Developer",
-				year: "2024",
-				github: "anivanchen",
-				image: "https://cdn.discordapp.com/avatars/695729168343629844/f4df801dc96eb786fa050272ba5fdfac.webp?size=256",
-			},
+				name: "Andrey Sokolov",
+				role: "Editor",
+				year: "2023",
+				github: "AndySok",
+				image: "",
+			}
 		];
 
 	const page_title = "Developers - The Stuyvesant Spectator";
